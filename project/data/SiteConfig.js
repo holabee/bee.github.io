@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: "bee blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "holabee, holab, bee, blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://gatsby-markdown-blog-starter.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://holabee.github.io/bee", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
     "A Gatsby Markdown Blog stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.
